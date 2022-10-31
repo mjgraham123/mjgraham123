@@ -1,4 +1,4 @@
-<h1 align="left" id="mjgraham123-title">:wave: Hi. I'm Matt</h1>
+<h1 align="left" id="mjgraham123-title">:wave: Hi. I'm Matt.</h1>
 <h3 align="left">
   I am the architect of <a href="https://avatarfleet.com" >AvatarFleet</a>'s A-Suite 
   - an Applicant Tracking, Compliance Management, and Learning Management SaaS Platform.
@@ -12,17 +12,16 @@
 </a>
 
 <ul>
-<li>👨‍💻 I am a proficient Python engineer, a Javascript hacker, and curiously dabbling in IoT</li>
-<li>🌱 I’m evolving from Flask as my primary web framework to FastAPI (and closely following Starlite)</li>
-<li>🤗 PostgreSQL is my go-to database of 20+ years. SQLAlchemy is my ORM of choice</li>
-<li>🕸 Linux, Docker, and AWS are my comfort zones for infrastructure- Windows has been long left behind</li>
-<li>👌 In addition to code, I am fluent in business and client-facing vernacular too 🤣</li>
+  <li>👨‍💻 I am a proficient Python engineer, a Javascript hacker, and curiously dabbling in IoT</li>
+  <li>🌱 I’m evolving from Flask as my primary web framework to FastAPI (and closely following Starlite)</li>
+  <li>🤗 PostgreSQL is my go-to database of 20+ years. SQLAlchemy is my ORM of choice</li>
+  <li>🕸 Linux, Docker, and AWS are my comfort zones for infrastructure- Windows has been long left behind</li>
+  <li>👌 In addition to code, I am fluent in business and client-facing vernacular too 👨‍💼 🤝</li>
 </ul>
 
 <br>
 
-<h2 align="left" id="mjgraham123-tech">Favorite Tech</h2>
-<h5>This is the stuff I work with every day:</h5>
+<h2 align="left" id="mjgraham123-tech">This is the stuff I work with every day:</h2>
 
 <table>
   <tr>
