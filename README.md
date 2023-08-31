@@ -13,7 +13,7 @@
 
 <ul>
   <li>👨‍💻 I am a proficient Python engineer, a Javascript hacker, and curiously dabbling in IoT</li>
-  <li>🌱 I’m evolving from Flask as my primary web framework to FastAPI (and closely following Starlite)</li>
+  <li>🌱 I’m evolving from Flask as my primary web framework to FastAPI</li>
   <li>🤗 PostgreSQL is my go-to database of 20+ years. SQLAlchemy is my ORM of choice</li>
   <li>🕸 Linux, Docker, and AWS are my comfort zones for infrastructure- Windows has been long left behind</li>
   <li>👌 In addition to code, I am fluent in business and client-facing vernacular too 👨‍💼 🤝</li>
