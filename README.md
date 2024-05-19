@@ -4,19 +4,12 @@
   - an Applicant Tracking, Compliance Management, and Learning Management SaaS Platform.
 </h3>
 
-<a href="#mjgraham123-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=mjgraham123&count_private=true&include_all_commits=true&show_icons=true&theme=buefy&hide_border=true" 
-       alt="mjgraham123" 
-       align="right" 
-  />
-</a>
-
 <ul>
   <li>👨‍💻 I am a proficient Python engineer, a Javascript hacker, and curiously dabbling in IoT</li>
-  <li>🌱 I’m evolving from Flask as my primary web framework to FastAPI</li>
-  <li>🤗 PostgreSQL is my go-to database of 20+ years. SQLAlchemy is my ORM of choice</li>
+  <li>🌱 My primary web framework is Flask/Quart with some special projects in FastAPI</li>
+  <li>🤗 PostgreSQL is my go-to database of 20+ years. SQLAlchemy is my ORM of choice.</li>
   <li>🕸 Linux, Docker, and AWS are my comfort zones for infrastructure- Windows has been long left behind</li>
-  <li>👌 In addition to code, I am fluent in business and client-facing vernacular too 👨‍💼 🤝</li>
+  <li>👌 While I love coding, developing teams, teaching, and being in front of clients is my true drive 👨‍💼 🤝</li>
 </ul>
 
 <br>
