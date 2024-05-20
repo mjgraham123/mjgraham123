@@ -69,7 +69,7 @@
       <br>Docker
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+      <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_smile-header-desktop-en-white_59x35@2x.png" />
       <br>AWS
     </td> 
     <td align="center" width="96">
@@ -77,7 +77,7 @@
       <br>GitHub
     </td>
     <td align="center" width="96">
-      <img src="https://www.david-dahan.com/tech-logos/vscode.svg" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain.svg" />
       <br>VSCode
     </td>
     <td align="center" width="96">
