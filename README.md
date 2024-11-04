@@ -85,11 +85,11 @@
       <br>Pytest
     </td>     
     <td align="center" width="96">
-      <img src="https://www.david-dahan.com/tech-logos/sentry.svg" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sentry/sentry-original.svg" />
       <br>Sentry
     </td>
     <td align="center" width="96">
-      <img src="https://www.david-dahan.com/tech-logos/vuejs.svg" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
       <br>Vue
     </td>
     <td align="center" width="96">
