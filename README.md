@@ -47,7 +47,7 @@
       <br>Redis
     </td>
     <td align="center" width="96">
-      <img src="https://www.david-dahan.com/tech-logos/celery.svg" />
+      <img src="https://docs.celeryq.dev/en/stable/_static/celery_512.png" />
       <br>Celery
     </td>
     <td align="center" width="96">
@@ -55,7 +55,7 @@
       <br>Alpine JS
     </td>     
     <td align="center" width="96">
-      <img src="https://www.david-dahan.com/tech-logos/htmx.svg" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/SVGmix-XRp12W-htmx.svg" />
       <br>HTMX
     </td>
   </tr>
