@@ -1,11 +1,11 @@
 <h1 align="left" id="mjgraham123-title">:wave: Hi. I'm Matt.</h1>
 <h3 align="left">
-  I am the architect of <a href="https://avatarfleet.com" >AvatarFleet</a>'s A-Suite 
+  I am the architect of <a href="https://avatarfleet.com" >AvatarFleet</a>'s DriverHub 
   - an Applicant Tracking, Compliance Management, and Learning Management SaaS Platform.
 </h3>
 
 <ul>
-  <li>👨‍💻 I am a proficient Python engineer, a Javascript hacker, and curiously dabbling in IoT</li>
+  <li>👨‍💻 I am a proficient Python engineer, a Javascript hacker, and curiously dabbling in all things AI</li>
   <li>🌱 My primary web framework is Flask with some special projects in FastAPI</li>
   <li>🤗 PostgreSQL is my go-to database of 20+ years. SQLAlchemy is my ORM of choice.</li>
   <li>🕸 Linux, Docker, and AWS are my comfort zones for infrastructure- Windows has been long left behind</li>
